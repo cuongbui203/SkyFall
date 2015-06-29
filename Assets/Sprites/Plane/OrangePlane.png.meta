@@ -1,0 +1,190 @@
+fileFormatVersion: 2
+guid: b85b0dcf704f72a4196a2c9e5eb8190e
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: OrangePlane_0
+    21300002: OrangePlane_1
+    21300004: OrangePlane_2
+    21300006: OrangePlane_3
+    21300008: OrangePlane_4
+    21300010: OrangePlane_5
+    21300012: OrangePlane_6
+    21300014: OrangePlane_7
+    21300016: OrangePlane_8
+    21300018: OrangePlane_9
+    21300020: OrangePlane_10
+    21300022: OrangePlane_11
+    21300024: OrangePlane_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: OrangePlane_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 198
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 198
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_2
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 198
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_3
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 126
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_4
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 134
+        width: 53
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 142
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_6
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 54
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 58
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_8
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 72
+        width: 53
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 86
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 64
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 12
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: OrangePlane_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 30
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

@@ -1,0 +1,5 @@
+interface  Bullet
+{
+	void BulletTrajectory();
+}
+
